@@ -63,6 +63,7 @@
 - **[Infura](https://infura.io/)** - A service providing scalable Ethereum and IPFS APIs.
 - **[Alchemy](https://www.alchemy.com/)** - A platform offering developer tools and infrastructure for building Ethereum dApps.
 - **[The Graph](https://thegraph.com/)** - An indexing protocol for querying blockchain data.
+- **[CryptoCalk](https://cryptocalk.com)** - Free Ethereum-focused calculators: ETH staking rewards, gas fee estimator, MEV calculator, liquid staking (LST), restaking ROI, validator earnings, EIP-1559 fee breakdown, liquidation price, ETH DCA simulator. Client-side, no signup, 6 languages.
 
 ## Ethereum Wallets
 
