@@ -63,6 +63,7 @@
 - **[Ethers.js](https://docs.ethers.io/)** - A lightweight library for interacting with the Ethereum blockchain and smart contracts.
 - **[Infura](https://infura.io/)** - A service providing scalable Ethereum and IPFS APIs.
 - **[Alchemy](https://www.alchemy.com/)** - A platform offering developer tools and infrastructure for building Ethereum dApps.
+- **[LYFTIUM](https://www.lyftium.com/)** - Ethereum Mainnet JSON-RPC with rpm pricing, `X-Api-Key` auth, and fail-closed 503 when the tip gate is closed.
 - **[The Graph](https://thegraph.com/)** - An indexing protocol for querying blockchain data.
 
 ## Ethereum Wallets
