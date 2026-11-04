@@ -64,6 +64,7 @@
 - **[Infura](https://infura.io/)** - A service providing scalable Ethereum and IPFS APIs.
 - **[Alchemy](https://www.alchemy.com/)** - A platform offering developer tools and infrastructure for building Ethereum dApps.
 - **[The Graph](https://thegraph.com/)** - An indexing protocol for querying blockchain data.
+- **[DefiLPKit](https://defilpkit.com/)** - A free, read-only calculator for DeFi liquidity providers: fee APR, estimated net yield after impermanent loss and gas, and range testing for Uniswap v3, PancakeSwap v3, Aerodrome Slipstream and Raydium CLMM pools.
 
 ## Ethereum Wallets
 
